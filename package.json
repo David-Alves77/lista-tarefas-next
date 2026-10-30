@@ -10,7 +10,6 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
-    
   },
   "dependencies": {
     "next": "15.5.28",
@@ -30,6 +29,7 @@
     "eslint-config-next": "15.5.28",
     "jest": "^30.5.2",
     "jest-environment-jsdom": "^30.5.2",
+    "ts-node": "^10.9.2",
     "typescript": "^5"
   }
 }
